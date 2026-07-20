@@ -136,4 +136,4 @@ This project is for **educational purposes only**. It is not financial advice. P
 
 ---
 
-*Built as part of the FinTech course project — [Your University], 2026.*
+*Built as part of the FinTech course project — [UMASS AMHERST], 2026.*
